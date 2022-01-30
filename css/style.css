@@ -1,0 +1,45 @@
+body {
+	background-color: #E3FFFB;
+}
+
+strike {
+	font-family: arial;
+}
+
+footer {
+	font-family: forte;
+}
+
+.grande {
+	width: 100%;
+}
+
+audio {
+	display: block;
+	opacity: .5;
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+.title {
+	font: 50px algerian;
+}
+
+.subtitle {
+	font: 20px cooper black;
+	display: inline-block;
+}
+
+.parrafo {
+	font-family: comic sans ms;
+}
+
+.img, .video, .text_center {
+	margin: auto;
+	display: block;
+	text-align: center;
+}
+
+.chiquito {
+	width: 300px;
+}
